@@ -1,7 +1,7 @@
 ## Enterprise Identity Governance & Zero Trust Architecture
 
 
-<a href="https://github.com/InformationSecurityEngineerr/Identity-and-Access-Management/blob/main/Identity%20Governance%20%26%20Attribute-Based%20Access%20Control%20(ABAC)">Phase 1: Identity Governance & Attribute-Based Access Control (ABAC)</a>
+<a href="https://github.com/InformationSecurityEngineerr/Identity-and-Access-Management/tree/main?tab=readme-ov-file#technical-implementation-details">Phase 1: Identity Governance & Attribute-Based Access Control (ABAC)</a>
 (Completed) ████████████████████ 100%
 
 Focus: Automated Identity Lifecycle Management, Dynamic Membership Rules, and UPN standardization.
@@ -11,7 +11,7 @@ Phase 2: Adaptive Security & Conditional Access Policy Design
 
 ---
 
-Identity Governance & Attribute-Based Access Control (ABAC)
+### *Identity Governance & Attribute-Based Access Control (ABAC)*
 
 In this phase, I established a cloud-native identity foundation using **Microsoft Entra ID**. The primary objective was to transition from manual user management to **Attribute-Based Access Control (ABAC)**. This ensures that as users move through an organization—via onboarding, transfers, or offboarding—their access is automatically provisioned and revoked, adhering to the principle of **Least Privilege**.
 
